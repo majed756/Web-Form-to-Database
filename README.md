@@ -27,6 +27,8 @@ The primary goal of this project is to illustrate how front-end forms communicat
 
 <img width="456" height="352" alt="image" src="https://github.com/user-attachments/assets/aed86340-2553-4e9d-be28-602057ba635a" />
 
+<img width="1557" height="585" alt="image" src="https://github.com/user-attachments/assets/8b902acf-6048-49ed-a784-554496c1e2a3" />
+
 
 3.  **Database Insertion:** The PHP script connects to the MySQL server and executes a `SELECT` and `INSERT` query to permanently store the new user record.
 
