@@ -19,9 +19,24 @@ The primary goal of this project is to illustrate how front-end forms communicat
 ## ⚙️ How It Works (The Data Flow)
 
 1.  **Data Entry:** The user interacts with a simple front-end interface (`index.html`) to input their Name and Age.
-2.  **Transmission:** Upon submission, the browser sends this data to the backend script (`n.php`).
-3.  **Database Insertion:** The PHP script connects to the MySQL server and executes a `SELECT` and `INSERT` query to permanently store the new user record.
-4.  **Data Retrieval & Display:** Finally, the script queries the database for *all* existing users and automatically draws an HTML table on the screen to display the updated directory.
+
+<img width="277" height="242" alt="image" src="https://github.com/user-attachments/assets/0304192b-6b47-4818-acdb-a3ac7bf16e87" />
+
+
+3.  **Transmission:** Upon submission, the browser sends this data to the backend script (`n.php`).
+
+<img width="456" height="352" alt="image" src="https://github.com/user-attachments/assets/aed86340-2553-4e9d-be28-602057ba635a" />
+
+
+4.  **Database Insertion:** The PHP script connects to the MySQL server and executes a `SELECT` and `INSERT` query to permanently store the new user record.
+
+<img width="1891" height="577" alt="image" src="https://github.com/user-attachments/assets/0f357503-2ae2-4f0b-b7b3-c0a349cd8e45" />
+
+
+5.  **Data Retrieval & Display:** Finally, the script queries the database for *all* existing users and automatically draws an HTML table on the screen to display the updated directory.
+
+<img width="462" height="426" alt="image" src="https://github.com/user-attachments/assets/ec249d37-0fbc-4c8c-b0f8-beff265faa07" />
+
 
 ## 🛠️ Technologies Used
 
