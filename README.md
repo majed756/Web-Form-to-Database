@@ -1,7 +1,7 @@
 # Web-Form-to-Database
 A dynamic front-end form connected to a backend PHP server for real-time MySQL data entry and retrieval.
 
-### majed756/PHP-MySQL-Data-Pipeline: A foundational full-stack web application designed to capture user input, process it through a PHP backend, and permanently store and retrieve it using a MySQL database.
+
 
 ## 📖 About The Project
 
